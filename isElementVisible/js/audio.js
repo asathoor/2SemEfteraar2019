@@ -3,11 +3,6 @@
  * purpose: play audio when the containing div is visible
  **/
 
-// eventlistener sample
-btn1.addEventListener("click", function() {
-  btn1.style.backgroundColor = "red";
-});
-
 // eventlistener: a window scroll
 window.addEventListener("scroll", function() { // detect scroll event
 
@@ -30,7 +25,8 @@ window.addEventListener("scroll", function() { // detect scroll event
 function elFllVsbl(el) {
   return (el.getBoundingClientRect().top >= 0 && el.getBoundingClientRect().bottom < window.innerHeight);
 }
+
 /*
 NB: the audio / video tags will allways return true,
-solution: place the tag in a div and test for the div in stead
+solution: place the tag in a div and test for that div.
 */
