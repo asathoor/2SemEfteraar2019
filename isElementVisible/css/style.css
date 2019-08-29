@@ -1,0 +1,11 @@
+/* MWR: a click in order to enable sound */
+#btn1 {
+  background-color: green; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 6rem;
+}
