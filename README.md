@@ -2,8 +2,8 @@
 
 Undervisning i JavaScript mv.: Multimediedesigner Andet semester efteråret 2019.
 
-Her vil der med tiden komme boilerplates, dvs. templates som du kan arbejde videre på.
+* JavaScript boilerplates
+* jQuery boilerplate
+* Kode fra undervisningen
 
-# Billeder og lydfiler
-
-Billeder og lydfiler er fjernet fra denne demo. Du kan selv tilføje passende filer.
+På andet semester arbejder vi stadig med HTML og CSS. Men fra nu af tilføjer JavaScript dynamiske effekter til dine websider.
